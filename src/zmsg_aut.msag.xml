@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMSG_AUT</ARBGB>
+    <MASTERLANG>P</MASTERLANG>
+    <STEXT>Controle de Acesso</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZMSG_AUT</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Cargo &apos;&amp;&apos; Inválido. Use apenas: 1 = Diretor, 2 = Gerente, 3 = Analista</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZMSG_AUT</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Cargo &apos;&amp;&apos; Não permitido. Valores válidos: 1, 2 ou 3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZMSG_AUT</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Setor não pode estar vazio</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZMSG_AUT</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Usuário &apos;&amp;&apos; não autorizado a usar transação administrativa</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
